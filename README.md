@@ -154,6 +154,6 @@ Swift 4 can typecast an `NSNumber` to an `UInt8`
 
 
 ## Meta
-Duy Doan – Email: duy.doan@asnet.com.vn
+Author: Duy Doan
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
