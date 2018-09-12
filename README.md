@@ -1,7 +1,7 @@
 # What's new in Swift 4
 
 ## Descriptions
-> This branch to contain all exampples about ``What is new in Swift 4`` topic.
+> This repository to contain all exampples about ``What is new in Swift 4``
 
 ## Contents
 ### 1. Swifty encoding and decoding
